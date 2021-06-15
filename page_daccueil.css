@@ -1,0 +1,100 @@
+body
+{
+	background:url("images_web/accueil.jpeg") no-repeat fixed ;
+	background-size:100% 100%;
+	color:#996666;
+	width:100%;
+}
+header
+{
+	display:inline;
+	width:100%;
+	margin-top:0;
+	border:1px yellow solid;
+	color:#996666;
+	box-shadow:6px 6px 6px black ;
+	margin:auto;
+	
+}
+.Formu
+{
+  float:left;
+  margin-left:8%;
+  font-size:xx-large;
+  /*border:1px solid yellow;*/
+}
+.Projet
+{
+	float:right;
+	font-size:xx-large;
+	margin-right:6%;
+   
+	/*border:1px solid yellow;*/
+
+}
+.CV
+{
+	
+	font-size:xx-large;
+	margin-left:25%;
+	margin-right:25%;
+	/*border:1px solid yellow;*/
+}
+
+section
+{ 
+	display:inline-block;
+	color:#FFFFFF;
+	font-size:120%;
+	text-shadow:2px 2px 4px black;
+	overflow:hidden;
+	vertical-align:middle;
+	margin-left:40%;
+	margin-right:40%;
+	margin-top:10%;
+	width:10%;
+	/*position:fixed;
+	top:30%;
+	left:40%;
+	right:40%;
+	bottom:30%;*/
+	/*border:1px groove yellow;*/
+	
+	
+}
+a
+{
+	color:blue;
+}	
+footer
+{
+	
+	display:inline-block;
+	/*position:fixed;
+	bottom:0px;
+	right:0px;
+	left:0px;*/
+	width:100%;
+	/*border:1px groove yellow;*/
+	margin-bottom:0%;
+	font-size:25;
+	vertical-align:bottom;
+	margin-top:20%;
+	/*background:url("images_web/Linke.png") no-repeat fixed;
+	background-size:10% 10%;*/
+}
+.Linke
+{
+	padding-top:0%;
+	height:3em;
+	width:3em;
+	float:right;
+	background-image:url("https://www.linkedin.com/in/mickael-zodros-197663213");
+	/*border:1px groove yellow;*/
+}
+.ecrit
+{
+	margin-bottom:0%;
+	padding-bottom:0%;
+	font-size:120%;
+}

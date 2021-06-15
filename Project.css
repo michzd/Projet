@@ -1,0 +1,37 @@
+body
+{
+	/*background-image:url("images_web/construction.jpeg") no-repeat fixed right;
+	background-size:50% 100%;*/
+	background:linear-gradient(to right,#999999,white) no-repeat fixed ,url("images_web/construction.jpeg") no-repeat fixed right ;
+    background-size:50% 100%;
+	
+}	
+ul
+{
+	
+	float:left;
+	width:20%;
+	height:40%;
+	margin-bottom:0%
+	
+}
+
+
+
+
+
+
+li
+{
+  
+  padding-bottom:33%;
+  
+}
+
+
+ 
+a
+{
+	height:10px;
+	width:10px;
+}
